@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: "Assets/Arthur Andr\xE9 da Silva/Scene/Menu.unity"
+    guid: e1bfa8f2afea2aa428239c89ab54d7f0
+  - enabled: 1
+    path: "Assets/Arthur Andr\xE9 da Silva/Scene/Scene Jogo.unity"
+    guid: b8465fec9c9768b4295792cf5b645bfa
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
