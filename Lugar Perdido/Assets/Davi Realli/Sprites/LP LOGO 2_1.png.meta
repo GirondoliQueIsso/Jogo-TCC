@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 82e52bb7dcfc69042a8c8e7dd4145375
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6474901530840741781
+    second: LP LOGO 2_1_0
+  - first:
+      213: 1963457717741008263
+    second: LP LOGO 2_1_1
+  - first:
+      213: -3036346634994147101
+    second: LP LOGO 2_1_2
+  - first:
+      213: -3858391909149967963
+    second: LP LOGO 2_1_3
+  - first:
+      213: -7623739743815490770
+    second: LP LOGO 2_1_4
+  - first:
+      213: 5759202254058149346
+    second: LP LOGO 2_1_5
+  - first:
+      213: 4169488747580181921
+    second: LP LOGO 2_1_6
+  - first:
+      213: -6408579281313532434
+    second: LP LOGO 2_1_7
+  - first:
+      213: -5174620882643412763
+    second: LP LOGO 2_1_8
+  - first:
+      213: 5124800206329793525
+    second: LP LOGO 2_1_9
+  - first:
+      213: -449094387168676970
+    second: LP LOGO 2_1_10
+  - first:
+      213: 8228157937533365702
+    second: LP LOGO 2_1_11
+  - first:
+      213: 611305325553607757
+    second: LP LOGO 2_1_12
+  - first:
+      213: 4312350674220849612
+    second: LP LOGO 2_1_13
+  - first:
+      213: 8089938913477596678
+    second: LP LOGO 2_1_14
+  - first:
+      213: 136357427421182216
+    second: LP LOGO 2_1_15
+  - first:
+      213: 272048758319793468
+    second: LP LOGO 2_1_16
+  - first:
+      213: 1925555586701180107
+    second: LP LOGO 2_1_17
+  - first:
+      213: -3833433429505814378
+    second: LP LOGO 2_1_18
+  - first:
+      213: 5914068572674968659
+    second: LP LOGO 2_1_19
+  - first:
+      213: 2467168069384834618
+    second: LP LOGO 2_1_20
+  - first:
+      213: -8755842814885120702
+    second: LP LOGO 2_1_21
+  - first:
+      213: 6743956716658081683
+    second: LP LOGO 2_1_22
+  - first:
+      213: 5760596046685095194
+    second: LP LOGO 2_1_23
+  - first:
+      213: -6465163964566030936
+    second: LP LOGO 2_1_24
+  - first:
+      213: 3614278381116783043
+    second: LP LOGO 2_1_25
+  - first:
+      213: 1654481199273389535
+    second: LP LOGO 2_1_26
+  - first:
+      213: 9140604626978786470
+    second: LP LOGO 2_1_27
+  - first:
+      213: 6258347271627048285
+    second: LP LOGO 2_1_28
+  - first:
+      213: 1439331671833084307
+    second: LP LOGO 2_1_29
+  - first:
+      213: 5478971706122697416
+    second: LP LOGO 2_1_30
+  - first:
+      213: 1320447172029348373
+    second: LP LOGO 2_1_31
+  - first:
+      213: 6473158668363175295
+    second: LP LOGO 2_1_32
+  - first:
+      213: 2403061180572223144
+    second: LP LOGO 2_1_33
+  - first:
+      213: -3703981622497794271
+    second: LP LOGO 2_1_34
+  - first:
+      213: -452494643164400656
+    second: LP LOGO 2_1_35
+  - first:
+      213: 4814575013568449335
+    second: LP LOGO 2_1_36
+  - first:
+      213: -6153925969380582565
+    second: LP LOGO 2_1_37
+  - first:
+      213: -9173831711235776720
+    second: LP LOGO 2_1_38
+  - first:
+      213: 594081654862084992
+    second: LP LOGO 2_1_39
+  - first:
+      213: -4483801410098898087
+    second: LP LOGO 2_1_40
+  - first:
+      213: 4048615657966761964
+    second: LP LOGO 2_1_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LP LOGO 2_1_0
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 464
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68ca9afc578426a0800000000000000
+      internalID: -6474901530840741781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_1
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 459
+        width: 148
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785b375346a9f3b10800000000000000
+      internalID: 1963457717741008263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 247
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0a83e92dabcd5d0800000000000000
+      internalID: -3036346634994147101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 267
+        width: 90
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9ffd2500d347ac0800000000000000
+      internalID: -3858391909149967963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 265
+        width: 100
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23a9d56819033690800000000000000
+      internalID: -7623739743815490770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 265
+        width: 101
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5d3cebfebccef40800000000000000
+      internalID: 5759202254058149346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_6
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 267
+        width: 109
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad418ecceffcd930800000000000000
+      internalID: 4169488747580181921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_7
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 267
+        width: 107
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5f06609172017a0800000000000000
+      internalID: -6408579281313532434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 271
+        width: 237
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e898ba39bd0038b0800000000000000
+      internalID: -5174620882643412763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3
+        width: 147
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbc223a2a2fe1740800000000000000
+      internalID: 5124800206329793525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3
+        width: 116
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6937036c80f74c9f0800000000000000
+      internalID: -449094387168676970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3
+        width: 158
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdac7eac0a403270800000000000000
+      internalID: 8228157937533365702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3
+        width: 148
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d446dea64facb7800800000000000000
+      internalID: 611305325553607757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_13
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 3
+        width: 62
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc999d3271c88db30800000000000000
+      internalID: 4312350674220849612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_14
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 3
+        width: 148
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6061178549c354070800000000000000
+      internalID: 8089938913477596678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 140
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809fce79b5074e100800000000000000
+      internalID: 136357427421182216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_16
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 210
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35cc3187e286c300800000000000000
+      internalID: 272048758319793468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_17
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 201
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccb794aa92f8ba10800000000000000
+      internalID: 1925555586701180107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_18
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 193
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690d2343b98eccac0800000000000000
+      internalID: -3833433429505814378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_19
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 184
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cc793680ef21250800000000000000
+      internalID: 5914068572674968659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_20
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 176
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e8ed899442d3220800000000000000
+      internalID: 2467168069384834618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_21
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 167
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245bd9da95ffc7680800000000000000
+      internalID: -8755842814885120702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_22
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 159
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fb30d17e8579d50800000000000000
+      internalID: 6743956716658081683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_23
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 151
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a154f21659fb1ff40800000000000000
+      internalID: 5760596046685095194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_24
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 142
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5b26dc0af1746a0800000000000000
+      internalID: -6465163964566030936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_25
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 134
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9f6d1d90f782230800000000000000
+      internalID: 3614278381116783043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_26
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 126
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdda04a82e5e5f610800000000000000
+      internalID: 1654481199273389535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_27
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 117
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6accc5faa73f9de70800000000000000
+      internalID: 9140604626978786470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_28
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 109
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d558d567fad1ad650800000000000000
+      internalID: 6258347271627048285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_29
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 101
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3918495978889f310800000000000000
+      internalID: 1439331671833084307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_30
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cafbd5ecb7390c40800000000000000
+      internalID: 5478971706122697416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_31
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 84
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a7a79f4bb235210800000000000000
+      internalID: 1320447172029348373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_32
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 67
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75178a338745d950800000000000000
+      internalID: 6473158668363175295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_33
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 75
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6c9896963695120800000000000000
+      internalID: 2403061180572223144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_34
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 67
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127a170c650d89cc0800000000000000
+      internalID: -3703981622497794271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_35
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 58
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f33b6bf48a68b9f0800000000000000
+      internalID: -452494643164400656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_36
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 50
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b0834577ec0d240800000000000000
+      internalID: 4814575013568449335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_37
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 59
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bd40d8fecd89aa0800000000000000
+      internalID: -6153925969380582565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_38
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 50
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fd396e9a000b080800000000000000
+      internalID: -9173831711235776720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_39
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 42
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b71a51e1a9e3800800000000000000
+      internalID: 594081654862084992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_40
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 33
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bd8abaf5656c1c0800000000000000
+      internalID: -4483801410098898087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LP LOGO 2_1_41
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 43
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7713d8d729f2830800000000000000
+      internalID: 4048615657966761964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LP LOGO 2_1_0: -6474901530840741781
+      LP LOGO 2_1_1: 1963457717741008263
+      LP LOGO 2_1_10: -449094387168676970
+      LP LOGO 2_1_11: 8228157937533365702
+      LP LOGO 2_1_12: 611305325553607757
+      LP LOGO 2_1_13: 4312350674220849612
+      LP LOGO 2_1_14: 8089938913477596678
+      LP LOGO 2_1_15: 136357427421182216
+      LP LOGO 2_1_16: 272048758319793468
+      LP LOGO 2_1_17: 1925555586701180107
+      LP LOGO 2_1_18: -3833433429505814378
+      LP LOGO 2_1_19: 5914068572674968659
+      LP LOGO 2_1_2: -3036346634994147101
+      LP LOGO 2_1_20: 2467168069384834618
+      LP LOGO 2_1_21: -8755842814885120702
+      LP LOGO 2_1_22: 6743956716658081683
+      LP LOGO 2_1_23: 5760596046685095194
+      LP LOGO 2_1_24: -6465163964566030936
+      LP LOGO 2_1_25: 3614278381116783043
+      LP LOGO 2_1_26: 1654481199273389535
+      LP LOGO 2_1_27: 9140604626978786470
+      LP LOGO 2_1_28: 6258347271627048285
+      LP LOGO 2_1_29: 1439331671833084307
+      LP LOGO 2_1_3: -3858391909149967963
+      LP LOGO 2_1_30: 5478971706122697416
+      LP LOGO 2_1_31: 1320447172029348373
+      LP LOGO 2_1_32: 6473158668363175295
+      LP LOGO 2_1_33: 2403061180572223144
+      LP LOGO 2_1_34: -3703981622497794271
+      LP LOGO 2_1_35: -452494643164400656
+      LP LOGO 2_1_36: 4814575013568449335
+      LP LOGO 2_1_37: -6153925969380582565
+      LP LOGO 2_1_38: -9173831711235776720
+      LP LOGO 2_1_39: 594081654862084992
+      LP LOGO 2_1_4: -7623739743815490770
+      LP LOGO 2_1_40: -4483801410098898087
+      LP LOGO 2_1_41: 4048615657966761964
+      LP LOGO 2_1_5: 5759202254058149346
+      LP LOGO 2_1_6: 4169488747580181921
+      LP LOGO 2_1_7: -6408579281313532434
+      LP LOGO 2_1_8: -5174620882643412763
+      LP LOGO 2_1_9: 5124800206329793525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
