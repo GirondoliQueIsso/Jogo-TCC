@@ -5,6 +5,7 @@ public class PlayerController : MonoBehaviour
     [Header("Movement Settings")]
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float jumpForce = 7f;
+    [SerializeField] private HealthBar healthBar;
 
     private Rigidbody2D rb;
     private bool canJump = true;
@@ -13,6 +14,12 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+
+        // Se a healthBar não estiver atribuída no Inspector, tenta encontrar automaticamente
+        if (healthBar == null)
+        {
+            healthBar = FindObjectOfType<HealthBar>();
+        }
     }
 
     void Update()
@@ -31,7 +38,7 @@ public class PlayerController : MonoBehaviour
             rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
         }
 
-        // Verifica se pode pular (quando a velocidade vertical é zero ou quase zero)
+        // Verifica se pode pular
         if (Mathf.Abs(rb.linearVelocity.y) < 0.01f)
         {
             canJump = true;
@@ -47,12 +54,25 @@ public class PlayerController : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
     }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Item")
         {
             Destroy(collision.gameObject);
             item++;
+        }
+        else if (collision.gameObject.tag == "Enemy" || collision.gameObject.tag == "Hazard")
+        {
+            TakeDamage(10f); // Valor de dano ajustável
+        }
+    }
+
+    public void TakeDamage(float damage)
+    {
+        if (healthBar != null)
+        {
+            healthBar.TakeDamage(damage);
         }
     }
 }

@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 5ac3c25e5312bf94aa7a4807b565f772
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4632649889228059019
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_0"
+  - first:
+      213: 7320808214292609155
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_1"
+  - first:
+      213: 5169769623349721232
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_2"
+  - first:
+      213: 4002471954429754707
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_3"
+  - first:
+      213: -2857803285830752662
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_4"
+  - first:
+      213: 2452201159513672794
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_5"
+  - first:
+      213: 7398337537854013810
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_6"
+  - first:
+      213: -4882302214296082942
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_7"
+  - first:
+      213: 5303766707719867703
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_8"
+  - first:
+      213: -8426453219300593959
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_9"
+  - first:
+      213: 7184030867241328809
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_10"
+  - first:
+      213: -4970494613855408053
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_11"
+  - first:
+      213: -1445297856319904153
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_12"
+  - first:
+      213: -4691427087265046298
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_13"
+  - first:
+      213: 2694364275082386614
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_14"
+  - first:
+      213: 9017314260585009588
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_15"
+  - first:
+      213: 1754803180500941253
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_16"
+  - first:
+      213: 8192915627128206572
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_17"
+  - first:
+      213: 7908983596097966046
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_18"
+  - first:
+      213: -7361317913154152092
+    second: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_19"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1068
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81f038878a7a4040800000000000000
+      internalID: 4632649889228059019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_1"
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 70
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3883ca9984cb89560800000000000000
+      internalID: 7320808214292609155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_2"
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 44
+        width: 97
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0987d52f416beb740800000000000000
+      internalID: 5169769623349721232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_3"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 52
+        width: 74
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dbf3b5903ab8730800000000000000
+      internalID: 4002471954429754707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_4"
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 42
+        width: 32
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a662d168d0b0758d0800000000000000
+      internalID: -2857803285830752662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_5"
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 44
+        width: 75
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c0d9656f7f70220800000000000000
+      internalID: 2452201159513672794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_6"
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 165
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2710a38eacc2ca660800000000000000
+      internalID: 7398337537854013810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_7"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 171
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20667cee0049e3cb0800000000000000
+      internalID: -4882302214296082942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_8"
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 39
+        width: 113
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d8f2958b3ca9940800000000000000
+      internalID: 5303766707719867703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_9"
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 19
+        width: 103
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de242b31793f0b80800000000000000
+      internalID: -8426453219300593959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_10"
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 22
+        width: 68
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a06c59d20ec2b360800000000000000
+      internalID: 7184030867241328809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_11"
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 27
+        width: 79
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40f727cb71450bb0800000000000000
+      internalID: -4970494613855408053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_12"
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 25
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7662b67d14541fbe0800000000000000
+      internalID: -1445297856319904153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_13"
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 67
+        width: 52
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0ebed9be3b4eeb0800000000000000
+      internalID: -4691427087265046298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_14"
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 163
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcd9c7680e446520800000000000000
+      internalID: 2694364275082386614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_15"
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 0
+        width: 112
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1db325b8fe32d70800000000000000
+      internalID: 9017314260585009588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_16"
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 23
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9fb7002305a5810800000000000000
+      internalID: 1754803180500941253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_17"
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 13
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce439bdda5513b170800000000000000
+      internalID: 8192915627128206572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_18"
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 42
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf8fc35daa52cd60800000000000000
+      internalID: 7908983596097966046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_19"
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4691ab32c5857d990800000000000000
+      internalID: -7361317913154152092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 27166f393db938a408d15e904c1df075
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_0": 4632649889228059019
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_1": 7320808214292609155
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_10": 7184030867241328809
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_11": -4970494613855408053
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_12": -1445297856319904153
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_13": -4691427087265046298
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_14": 2694364275082386614
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_15": 9017314260585009588
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_16": 1754803180500941253
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_17": 8192915627128206572
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_18": 7908983596097966046
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_19": -7361317913154152092
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_2": 5169769623349721232
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_3": 4002471954429754707
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_4": -2857803285830752662
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_5": 2452201159513672794
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_6": 7398337537854013810
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_7": -4882302214296082942
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_8": 5303766707719867703
+      "2.2 BOT\xC3O CONFIGURA\xC7\xD5ES SELECIONADO_9": -8426453219300593959
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

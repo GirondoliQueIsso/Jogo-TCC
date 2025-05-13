@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 3950c797fc0ba5a41ae850d9c1d6dc4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9183561404769471641
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_0"
+  - first:
+      213: -1402863987331483329
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_1"
+  - first:
+      213: 7785214159119654499
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_2"
+  - first:
+      213: 6724454214717273108
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_3"
+  - first:
+      213: -4188961345959111802
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_4"
+  - first:
+      213: 8540214842979966022
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_5"
+  - first:
+      213: -2255852952978582675
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_6"
+  - first:
+      213: -2344688524750987558
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_7"
+  - first:
+      213: 5193920650240168883
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_8"
+  - first:
+      213: 7873310747652266007
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_9"
+  - first:
+      213: -1329755469627642718
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_10"
+  - first:
+      213: 3563475025702740074
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_11"
+  - first:
+      213: -7725839938860883034
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_12"
+  - first:
+      213: -5759772939379442425
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_13"
+  - first:
+      213: 230581682878312224
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_14"
+  - first:
+      213: 366267837525589734
+    second: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_15"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 670
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7637ab71f8f6d8080800000000000000
+      internalID: -9183561404769471641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_1"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 24
+        width: 103
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f393beed2a6088ce0800000000000000
+      internalID: -1402863987331483329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_2"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 118
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e1ba6a703aa0c60800000000000000
+      internalID: 7785214159119654499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_3"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 24
+        width: 105
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414f9980b7f025d50800000000000000
+      internalID: 6724454214717273108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_4"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 16
+        width: 32
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683d34499d1ddd5c0800000000000000
+      internalID: -4188961345959111802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_5"
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 10
+        width: 87
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cd655d620f48670800000000000000
+      internalID: 8540214842979966022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_6"
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 167
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d631238f0b991b0e0800000000000000
+      internalID: -2255852952978582675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_7"
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 82
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade584d953ef57fd0800000000000000
+      internalID: -2344688524750987558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_8"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 98
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b391251053841840800000000000000
+      internalID: 5193920650240168883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_9"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 93
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7181410196e934d60800000000000000
+      internalID: 7873310747652266007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_10"
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 9
+        width: 76
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac26ba1272cb8de0800000000000000
+      internalID: -1329755469627642718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_11"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 85
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60ecf0e7a1047130800000000000000
+      internalID: 3563475025702740074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_12"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 77
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3eba4428d48c490800000000000000
+      internalID: -7725839938860883034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_13"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 32
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d7169370d2110b0800000000000000
+      internalID: -5759772939379442425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_14"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 65
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f6ca3a1d0333300800000000000000
+      internalID: 230581682878312224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "3.1 BOT\xC3O CR\xC9DITOS NORMAL_15"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 46
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eefc5c58ae351500800000000000000
+      internalID: 366267837525589734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 80d1a04392b7068479d4d67ed9f7b969
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_0": -9183561404769471641
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_1": -1402863987331483329
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_10": -1329755469627642718
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_11": 3563475025702740074
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_12": -7725839938860883034
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_13": -5759772939379442425
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_14": 230581682878312224
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_15": 366267837525589734
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_2": 7785214159119654499
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_3": 6724454214717273108
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_4": -4188961345959111802
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_5": 8540214842979966022
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_6": -2255852952978582675
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_7": -2344688524750987558
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_8": 5193920650240168883
+      "3.1 BOT\xC3O CR\xC9DITOS NORMAL_9": 7873310747652266007
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
