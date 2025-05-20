@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 50cf33a695e09464685508014cfc733b
+guid: b4c6ab9a8fdc14e41bf142fa936628ce
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3304844173174140864
-    second: LP MENU copiar_0
+      213: -5496657745142617716
+    second: "Composi\xE7\xE3o 1021_0"
+  - first:
+      213: 2447660698878399042
+    second: "Composi\xE7\xE3o 1021_1"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,13 +142,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LP MENU copiar_0
+      name: "Composi\xE7\xE3o 1021_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 205
+        y: 24
+        width: 1444
+        height: 529
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +157,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0409febfbb5d222d0800000000000000
-      internalID: -3304844173174140864
+      spriteID: c89efd047e2f7b3b0800000000000000
+      internalID: -5496657745142617716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1021_1"
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242d457ff66d7f120800000000000000
+      internalID: 2447660698878399042
       vertices: []
       indices: 
       edges: []
@@ -173,8 +198,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      LP MENU copiar_0: -3304844173174140864
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
