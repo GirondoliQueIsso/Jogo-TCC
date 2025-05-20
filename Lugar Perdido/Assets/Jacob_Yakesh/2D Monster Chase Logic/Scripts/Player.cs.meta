@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 274b1baacb846c34a85d7d74548d6f8a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311147
+  packageName: 2D Monster Chase Logic
+  packageVersion: 1.0.0
+  assetPath: Assets/Jacob_Yakesh/2D Monster Chase Logic/Scripts/Player.cs
+  uploadId: 740351

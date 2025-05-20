@@ -1,0 +1,4420 @@
+fileFormatVersion: 2
+guid: 61293068ff499c84f8b7cc583f55d2d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6486464229664085181
+    second: PRESSIONE P_0
+  - first:
+      213: -7068084796493071740
+    second: PRESSIONE P_1
+  - first:
+      213: -1596403560355772627
+    second: PRESSIONE P_2
+  - first:
+      213: 3739908014939451110
+    second: PRESSIONE P_3
+  - first:
+      213: 9092735485630435613
+    second: PRESSIONE P_4
+  - first:
+      213: -6025883029804456695
+    second: PRESSIONE P_5
+  - first:
+      213: 5061030517510660463
+    second: PRESSIONE P_6
+  - first:
+      213: -4267991041027410303
+    second: PRESSIONE P_7
+  - first:
+      213: -8959652314736453964
+    second: PRESSIONE P_8
+  - first:
+      213: -3765760026848264884
+    second: PRESSIONE P_9
+  - first:
+      213: 5830568245644895019
+    second: PRESSIONE P_10
+  - first:
+      213: 8047958300097673899
+    second: PRESSIONE P_11
+  - first:
+      213: 7770170321106635480
+    second: PRESSIONE P_12
+  - first:
+      213: 8432720094383022121
+    second: PRESSIONE P_13
+  - first:
+      213: -7610838760674683276
+    second: PRESSIONE P_14
+  - first:
+      213: -781397361287414930
+    second: PRESSIONE P_15
+  - first:
+      213: -1983064517439779783
+    second: PRESSIONE P_16
+  - first:
+      213: -6602001407441249152
+    second: PRESSIONE P_17
+  - first:
+      213: 4317244309316564667
+    second: PRESSIONE P_18
+  - first:
+      213: 7762204981789680794
+    second: PRESSIONE P_19
+  - first:
+      213: 3249571493401568787
+    second: PRESSIONE P_20
+  - first:
+      213: -425407079171495325
+    second: PRESSIONE P_21
+  - first:
+      213: 4458521653195700776
+    second: PRESSIONE P_22
+  - first:
+      213: 2187021967377632928
+    second: PRESSIONE P_23
+  - first:
+      213: -4749841933253534762
+    second: PRESSIONE P_24
+  - first:
+      213: -8274766600194166542
+    second: PRESSIONE P_25
+  - first:
+      213: -5233591264381645343
+    second: PRESSIONE P_26
+  - first:
+      213: -206667846388352855
+    second: PRESSIONE P_27
+  - first:
+      213: -7583896033308832852
+    second: PRESSIONE P_28
+  - first:
+      213: 7796849953073972356
+    second: PRESSIONE P_29
+  - first:
+      213: -755668759207550861
+    second: PRESSIONE P_30
+  - first:
+      213: -7135251066306010867
+    second: PRESSIONE P_31
+  - first:
+      213: -217743045133841056
+    second: PRESSIONE P_32
+  - first:
+      213: -6234601184131232997
+    second: PRESSIONE P_33
+  - first:
+      213: 4689577954326025859
+    second: PRESSIONE P_34
+  - first:
+      213: -7771833566695744700
+    second: PRESSIONE P_35
+  - first:
+      213: 565409438509826701
+    second: PRESSIONE P_36
+  - first:
+      213: 2658535737478169940
+    second: PRESSIONE P_37
+  - first:
+      213: 8060887882583094748
+    second: PRESSIONE P_38
+  - first:
+      213: 5817083995951646404
+    second: PRESSIONE P_39
+  - first:
+      213: -9166633864027501138
+    second: PRESSIONE P_40
+  - first:
+      213: -4199574541051701058
+    second: PRESSIONE P_41
+  - first:
+      213: -5544231196960058034
+    second: PRESSIONE P_42
+  - first:
+      213: 1366353442297715919
+    second: PRESSIONE P_43
+  - first:
+      213: -1764194269937349917
+    second: PRESSIONE P_44
+  - first:
+      213: 9109436842544912324
+    second: PRESSIONE P_45
+  - first:
+      213: 4703582797120816159
+    second: PRESSIONE P_46
+  - first:
+      213: 7956586902406406968
+    second: PRESSIONE P_47
+  - first:
+      213: -8909792470418633965
+    second: PRESSIONE P_48
+  - first:
+      213: 2135950433511636912
+    second: PRESSIONE P_49
+  - first:
+      213: -1200286421042992157
+    second: PRESSIONE P_50
+  - first:
+      213: -821966097654934522
+    second: PRESSIONE P_51
+  - first:
+      213: 4235737041065261480
+    second: PRESSIONE P_52
+  - first:
+      213: -3241489411727043140
+    second: PRESSIONE P_53
+  - first:
+      213: -3115648946519139880
+    second: PRESSIONE P_54
+  - first:
+      213: -3813122412794743456
+    second: PRESSIONE P_55
+  - first:
+      213: 6890999278181720337
+    second: PRESSIONE P_56
+  - first:
+      213: 1348570078429450810
+    second: PRESSIONE P_57
+  - first:
+      213: 2190558109173869503
+    second: PRESSIONE P_58
+  - first:
+      213: -817094378183081343
+    second: PRESSIONE P_59
+  - first:
+      213: -7720155899836511771
+    second: PRESSIONE P_60
+  - first:
+      213: -5757958230212965702
+    second: PRESSIONE P_61
+  - first:
+      213: -7867827590132820319
+    second: PRESSIONE P_62
+  - first:
+      213: -6533023743047417708
+    second: PRESSIONE P_63
+  - first:
+      213: 7621580421936661919
+    second: PRESSIONE P_64
+  - first:
+      213: 2719764542106966345
+    second: PRESSIONE P_65
+  - first:
+      213: -892930098761819744
+    second: PRESSIONE P_66
+  - first:
+      213: 7824103218083293679
+    second: PRESSIONE P_67
+  - first:
+      213: 7096693652905569687
+    second: PRESSIONE P_68
+  - first:
+      213: -6748518332512633600
+    second: PRESSIONE P_69
+  - first:
+      213: 1717279887547177016
+    second: PRESSIONE P_70
+  - first:
+      213: -1390015320230244929
+    second: PRESSIONE P_71
+  - first:
+      213: -2991303852838349262
+    second: PRESSIONE P_72
+  - first:
+      213: -1624775065675329148
+    second: PRESSIONE P_73
+  - first:
+      213: -7843983747565350713
+    second: PRESSIONE P_74
+  - first:
+      213: -6406519501363193214
+    second: PRESSIONE P_75
+  - first:
+      213: -6182357587517235928
+    second: PRESSIONE P_76
+  - first:
+      213: -7220861693806924547
+    second: PRESSIONE P_77
+  - first:
+      213: -8381000734582006525
+    second: PRESSIONE P_78
+  - first:
+      213: -2137394355728353868
+    second: PRESSIONE P_79
+  - first:
+      213: -8035991806397555438
+    second: PRESSIONE P_80
+  - first:
+      213: 4446493308645059091
+    second: PRESSIONE P_81
+  - first:
+      213: -2558779554830589745
+    second: PRESSIONE P_82
+  - first:
+      213: -7597049198185504078
+    second: PRESSIONE P_83
+  - first:
+      213: -7908602600898625094
+    second: PRESSIONE P_84
+  - first:
+      213: -954557278634807109
+    second: PRESSIONE P_85
+  - first:
+      213: 8788827565470796747
+    second: PRESSIONE P_86
+  - first:
+      213: 2097202145312694250
+    second: PRESSIONE P_87
+  - first:
+      213: 9001486297149225247
+    second: PRESSIONE P_88
+  - first:
+      213: 5611727303380358638
+    second: PRESSIONE P_89
+  - first:
+      213: 1538077979123462746
+    second: PRESSIONE P_90
+  - first:
+      213: -4957983011049772067
+    second: PRESSIONE P_91
+  - first:
+      213: 3385380677729607827
+    second: PRESSIONE P_92
+  - first:
+      213: -6744164294458178
+    second: PRESSIONE P_93
+  - first:
+      213: -1656358367776576672
+    second: PRESSIONE P_94
+  - first:
+      213: 839148814934734544
+    second: PRESSIONE P_95
+  - first:
+      213: -137045112239957884
+    second: PRESSIONE P_96
+  - first:
+      213: -8041845364379057057
+    second: PRESSIONE P_97
+  - first:
+      213: -2759941390920745767
+    second: PRESSIONE P_98
+  - first:
+      213: -508608407172405072
+    second: PRESSIONE P_99
+  - first:
+      213: 1359763355364032164
+    second: PRESSIONE P_100
+  - first:
+      213: -8552419300031342699
+    second: PRESSIONE P_101
+  - first:
+      213: -7544395377230558957
+    second: PRESSIONE P_102
+  - first:
+      213: -9162001506738805477
+    second: PRESSIONE P_103
+  - first:
+      213: 2423211826917333638
+    second: PRESSIONE P_104
+  - first:
+      213: -4205649575895188465
+    second: PRESSIONE P_105
+  - first:
+      213: -952053478228019376
+    second: PRESSIONE P_106
+  - first:
+      213: 1782177912752462415
+    second: PRESSIONE P_107
+  - first:
+      213: 6229366075151722663
+    second: PRESSIONE P_108
+  - first:
+      213: 8720892081088131632
+    second: PRESSIONE P_109
+  - first:
+      213: -3085019395657954347
+    second: PRESSIONE P_110
+  - first:
+      213: -2492270817189822191
+    second: PRESSIONE P_111
+  - first:
+      213: -5159807264538542761
+    second: PRESSIONE P_112
+  - first:
+      213: 2521690807308424298
+    second: PRESSIONE P_113
+  - first:
+      213: 4956627121311564487
+    second: PRESSIONE P_114
+  - first:
+      213: 8411643396711687683
+    second: PRESSIONE P_115
+  - first:
+      213: -7631720976390986712
+    second: PRESSIONE P_116
+  - first:
+      213: -6832265513658952185
+    second: PRESSIONE P_117
+  - first:
+      213: -7165642422745871499
+    second: PRESSIONE P_118
+  - first:
+      213: 2545932497282704665
+    second: PRESSIONE P_119
+  - first:
+      213: 3836553724661689911
+    second: PRESSIONE P_120
+  - first:
+      213: -8509892156672975686
+    second: PRESSIONE P_121
+  - first:
+      213: 5781842597769442546
+    second: PRESSIONE P_122
+  - first:
+      213: 7102961813547159639
+    second: PRESSIONE P_123
+  - first:
+      213: 8490831447866797463
+    second: PRESSIONE P_124
+  - first:
+      213: -4564387193221448091
+    second: PRESSIONE P_125
+  - first:
+      213: -1358431290797970419
+    second: PRESSIONE P_126
+  - first:
+      213: 2113039938981332452
+    second: PRESSIONE P_127
+  - first:
+      213: -2566526702217568349
+    second: PRESSIONE P_128
+  - first:
+      213: 1150028379581727255
+    second: PRESSIONE P_129
+  - first:
+      213: -3244303287382476091
+    second: PRESSIONE P_130
+  - first:
+      213: -5758715208824662287
+    second: PRESSIONE P_131
+  - first:
+      213: -3471463417213779178
+    second: PRESSIONE P_132
+  - first:
+      213: 7239858600269965773
+    second: PRESSIONE P_133
+  - first:
+      213: 2557893874633128053
+    second: PRESSIONE P_134
+  - first:
+      213: 3314846613025842255
+    second: PRESSIONE P_135
+  - first:
+      213: 8389077833094536214
+    second: PRESSIONE P_136
+  - first:
+      213: -8568226348027035912
+    second: PRESSIONE P_137
+  - first:
+      213: -2535151667368654639
+    second: PRESSIONE P_138
+  - first:
+      213: -1318128107023408003
+    second: PRESSIONE P_139
+  - first:
+      213: 4198522576982226053
+    second: PRESSIONE P_140
+  - first:
+      213: 8442530622240161773
+    second: PRESSIONE P_141
+  - first:
+      213: 8509398102794411103
+    second: PRESSIONE P_142
+  - first:
+      213: -1457700481291848480
+    second: PRESSIONE P_143
+  - first:
+      213: -6952878567036826824
+    second: PRESSIONE P_144
+  - first:
+      213: -5353391954264624645
+    second: PRESSIONE P_145
+  - first:
+      213: -1048695494878546544
+    second: PRESSIONE P_146
+  - first:
+      213: 6021742478250936904
+    second: PRESSIONE P_147
+  - first:
+      213: 8617922680071318124
+    second: PRESSIONE P_148
+  - first:
+      213: -6603841832152593781
+    second: PRESSIONE P_149
+  - first:
+      213: -8379821568700854282
+    second: PRESSIONE P_150
+  - first:
+      213: 1870043745559561983
+    second: PRESSIONE P_151
+  - first:
+      213: -8477965188555596104
+    second: PRESSIONE P_152
+  - first:
+      213: -5062876374197260217
+    second: PRESSIONE P_153
+  - first:
+      213: 7357514797812701030
+    second: PRESSIONE P_154
+  - first:
+      213: -3887163239370429754
+    second: PRESSIONE P_155
+  - first:
+      213: -1821186606211339051
+    second: PRESSIONE P_156
+  - first:
+      213: 4023559717096229204
+    second: PRESSIONE P_157
+  - first:
+      213: -1197798172456482394
+    second: PRESSIONE P_158
+  - first:
+      213: 2621544557575337232
+    second: PRESSIONE P_159
+  - first:
+      213: -214138876774945193
+    second: PRESSIONE P_160
+  - first:
+      213: -8832110124705845483
+    second: PRESSIONE P_161
+  - first:
+      213: 3356296408714018702
+    second: PRESSIONE P_162
+  - first:
+      213: 4538695987546486923
+    second: PRESSIONE P_163
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PRESSIONE P_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 65
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b289e56237bf5a0800000000000000
+      internalID: -6486464229664085181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 441
+        width: 201
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48af0be635e19ed90800000000000000
+      internalID: -7068084796493071740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 251
+        width: 251
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2743d28b6f68d9e0800000000000000
+      internalID: -1596403560355772627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_3
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 322
+        width: 150
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee2a135682d6e330800000000000000
+      internalID: 3739908014939451110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_4
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 627
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d115791bfb2ef2e70800000000000000
+      internalID: 9092735485630435613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_5
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 634
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90563769f43cf5ca0800000000000000
+      internalID: -6025883029804456695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_6
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 270
+        width: 205
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6162a1f0746c3640800000000000000
+      internalID: 5061030517510660463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_7
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 616
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186f20fc2cc05c4c0800000000000000
+      internalID: -4267991041027410303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_8
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 638
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b69025a0bbe8a380800000000000000
+      internalID: -8959652314736453964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_9
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 637
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4df75a15355dbbc0800000000000000
+      internalID: -3765760026848264884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_10
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 617
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2326508de65ae050800000000000000
+      internalID: 5830568245644895019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_11
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 136
+        width: 96
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa7a7c1f6710bf60800000000000000
+      internalID: 8047958300097673899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_12
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 430
+        width: 344
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da08d92db035db60800000000000000
+      internalID: 7770170321106635480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_13
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 266
+        width: 66
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920aff35f3a070570800000000000000
+      internalID: 8432720094383022121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_14
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 441
+        width: 202
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476163b987ed06690800000000000000
+      internalID: -7610838760674683276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_15
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 232
+        width: 197
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b390c6d3be725f0800000000000000
+      internalID: -781397361287414930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_16
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 251
+        width: 251
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c025ff35dba74e0800000000000000
+      internalID: -1983064517439779783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_17
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 232
+        width: 202
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cd5d6e2baf064a0800000000000000
+      internalID: -6602001407441249152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_18
+      rect:
+        serializedVersion: 2
+        x: 4894
+        y: 252
+        width: 275
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6f36953dee9eb30800000000000000
+      internalID: 4317244309316564667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_19
+      rect:
+        serializedVersion: 2
+        x: 5833
+        y: 295
+        width: 140
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9467551e44e8bb60800000000000000
+      internalID: 7762204981789680794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_20
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 272
+        width: 220
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316af686e0cc81d20800000000000000
+      internalID: 3249571493401568787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_21
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 565
+        width: 173
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36aeb01f386a81af0800000000000000
+      internalID: -425407079171495325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_22
+      rect:
+        serializedVersion: 2
+        x: 4579
+        y: 267
+        width: 189
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82afd1242d9dfdd30800000000000000
+      internalID: 4458521653195700776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_23
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 262
+        width: 112
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae058954ecd95e10800000000000000
+      internalID: 2187021967377632928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_24
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 575
+        width: 124
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db1b2d6deb251eb0800000000000000
+      internalID: -4749841933253534762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_25
+      rect:
+        serializedVersion: 2
+        x: 5679
+        y: 617
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0f8246e9f1a2d80800000000000000
+      internalID: -8274766600194166542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_26
+      rect:
+        serializedVersion: 2
+        x: 6022
+        y: 285
+        width: 211
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edc1fa497c8e57b0800000000000000
+      internalID: -5233591264381645343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_27
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 306
+        width: 222
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8f68d40b4c12df0800000000000000
+      internalID: -206667846388352855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_28
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 278
+        width: 200
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab02292db690c690800000000000000
+      internalID: -7583896033308832852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_29
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 597
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484cefb09b9f33c60800000000000000
+      internalID: 7796849953073972356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_30
+      rect:
+        serializedVersion: 2
+        x: 5540
+        y: 603
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370e29764435385f0800000000000000
+      internalID: -755668759207550861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_31
+      rect:
+        serializedVersion: 2
+        x: 5635
+        y: 263
+        width: 149
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d016a9995fe7afc90800000000000000
+      internalID: -7135251066306010867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_32
+      rect:
+        serializedVersion: 2
+        x: 5683
+        y: 608
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d4c76aadb6afcf0800000000000000
+      internalID: -217743045133841056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_33
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 588
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bc0af514f3a79a0800000000000000
+      internalID: -6234601184131232997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_34
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 589
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3861b129d4ab41140800000000000000
+      internalID: 4689577954326025859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_35
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 590
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b94ab4c86e42490800000000000000
+      internalID: -7771833566695744700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_36
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 561
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82080f73ecb8d700800000000000000
+      internalID: 565409438509826701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_37
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 564
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455411fea2405e420800000000000000
+      internalID: 2658535737478169940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_38
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 581
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5bd9f12d60edf60800000000000000
+      internalID: 8060887882583094748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_39
+      rect:
+        serializedVersion: 2
+        x: 5421
+        y: 566
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6ce47f21f6ab050800000000000000
+      internalID: 5817083995951646404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_40
+      rect:
+        serializedVersion: 2
+        x: 5422
+        y: 581
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead039c411399c080800000000000000
+      internalID: -9166633864027501138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_41
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 573
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8d6d8843d18b5c0800000000000000
+      internalID: -4199574541051701058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_42
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 573
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e459e88d91fee03b0800000000000000
+      internalID: -5544231196960058034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_43
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 554
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc99cd673346f210800000000000000
+      internalID: 1366353442297715919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_44
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 546
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaca9998a25487e0800000000000000
+      internalID: -1764194269937349917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_45
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 287
+        width: 204
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7debf5b883b6e70800000000000000
+      internalID: 9109436842544912324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_46
+      rect:
+        serializedVersion: 2
+        x: 5427
+        y: 275
+        width: 158
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14460222ab764140800000000000000
+      internalID: 4703582797120816159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_47
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 260
+        width: 52
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833a576c1a97b6e60800000000000000
+      internalID: 7956586902406406968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_48
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 486
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b4f3a44fe0a5480800000000000000
+      internalID: -8909792470418633965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_49
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 442
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf7d4f3a9b64ad10800000000000000
+      internalID: 2135950433511636912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_50
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 440
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebe1050cd9b75fe0800000000000000
+      internalID: -1200286421042992157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_51
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 433
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6041ddb603ac794f0800000000000000
+      internalID: -821966097654934522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_52
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 442
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9b8ae956c58ca30800000000000000
+      internalID: 4235737041065261480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_53
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 440
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5d1dedd8ae303d0800000000000000
+      internalID: -3241489411727043140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_54
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 428
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d918e16acdf2c4d0800000000000000
+      internalID: -3115648946519139880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_55
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 312
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065f94c4e51151bc0800000000000000
+      internalID: -3813122412794743456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_56
+      rect:
+        serializedVersion: 2
+        x: 4220
+        y: 312
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111ae7b555fb1af50800000000000000
+      internalID: 6890999278181720337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_57
+      rect:
+        serializedVersion: 2
+        x: 5943
+        y: 339
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32128f575517b210800000000000000
+      internalID: 1348570078429450810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_58
+      rect:
+        serializedVersion: 2
+        x: 5967
+        y: 346
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbe8258efc666e10800000000000000
+      internalID: 2190558109173869503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_59
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 324
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182cd600ef819a4f0800000000000000
+      internalID: -817094378183081343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_60
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 317
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9cb9bbc1f7cd490800000000000000
+      internalID: -7720155899836511771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_61
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 318
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba8e902f7f9710b0800000000000000
+      internalID: -5757958230212965702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_62
+      rect:
+        serializedVersion: 2
+        x: 4246
+        y: 318
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a69d180e7cdfc290800000000000000
+      internalID: -7867827590132820319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_63
+      rect:
+        serializedVersion: 2
+        x: 5957
+        y: 324
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4904776e4890655a0800000000000000
+      internalID: -6533023743047417708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_64
+      rect:
+        serializedVersion: 2
+        x: 5964
+        y: 327
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f954b9c430b45c960800000000000000
+      internalID: 7621580421936661919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_65
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 307
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9491dfce07b8eb520800000000000000
+      internalID: 2719764542106966345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_66
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 260
+        width: 139
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a91c0e5eccab93f0800000000000000
+      internalID: -892930098761819744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_67
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 311
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe968d74c6cc49c60800000000000000
+      internalID: 7824103218083293679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_68
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 308
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79da43507458c7260800000000000000
+      internalID: 7096693652905569687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_69
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 311
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d7f5ee4527852a0800000000000000
+      internalID: -6748518332512633600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_70
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 308
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8381c2d85f005d710800000000000000
+      internalID: 1717279887547177016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_71
+      rect:
+        serializedVersion: 2
+        x: 5968
+        y: 313
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd435d4e6ca5bce0800000000000000
+      internalID: -1390015320230244929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_72
+      rect:
+        serializedVersion: 2
+        x: 5973
+        y: 308
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23610549ef0cc76d0800000000000000
+      internalID: -2991303852838349262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_73
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 295
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481928aafa3a379e0800000000000000
+      internalID: -1624775065675329148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_74
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 280
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c01e6e3752942390800000000000000
+      internalID: -7843983747565350713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_75
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 290
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a52aae4787717a0800000000000000
+      internalID: -6406519501363193214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_76
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 292
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d1899978ad33aa0800000000000000
+      internalID: -6182357587517235928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_77
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 292
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfca9681c885acb90800000000000000
+      internalID: -7220861693806924547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_78
+      rect:
+        serializedVersion: 2
+        x: 4247
+        y: 303
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d93f08c34b0bb80800000000000000
+      internalID: -8381000734582006525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_79
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 283
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5f2e968237652e0800000000000000
+      internalID: -2137394355728353868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_80
+      rect:
+        serializedVersion: 2
+        x: 5300
+        y: 275
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d59b1570c6a7090800000000000000
+      internalID: -8035991806397555438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_81
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31aa0fd0b1e15bd30800000000000000
+      internalID: 4446493308645059091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_82
+      rect:
+        serializedVersion: 2
+        x: 5337
+        y: 289
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc06ac74d836d7cd0800000000000000
+      internalID: -2558779554830589745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_83
+      rect:
+        serializedVersion: 2
+        x: 5350
+        y: 285
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2acf0510cd19690800000000000000
+      internalID: -7597049198185504078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_84
+      rect:
+        serializedVersion: 2
+        x: 5828
+        y: 292
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab105b706dffe3290800000000000000
+      internalID: -7908602600898625094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_85
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 286
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb07539663bb0c2f0800000000000000
+      internalID: -954557278634807109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_86
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb4c080b1038f970800000000000000
+      internalID: 8788827565470796747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_87
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 290
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefdc8d5d32ca1d10800000000000000
+      internalID: 2097202145312694250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_88
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 288
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1930286814bbec70800000000000000
+      internalID: 9001486297149225247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_89
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 290
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5d85e004cd0ed40800000000000000
+      internalID: 5611727303380358638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_90
+      rect:
+        serializedVersion: 2
+        x: 4243
+        y: 288
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52318ed5c9585510800000000000000
+      internalID: 1538077979123462746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_91
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 271
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbe4ff48b4b13bb0800000000000000
+      internalID: -4957983011049772067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_92
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 292
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3906b853ac94bfe20800000000000000
+      internalID: 3385380677729607827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_93
+      rect:
+        serializedVersion: 2
+        x: 4790
+        y: 290
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb40ce2e73a08eff0800000000000000
+      internalID: -6744164294458178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_94
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 277
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b6eeb17de6309e0800000000000000
+      internalID: -1656358367776576672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_95
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 287
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6ffd3b66145ab00800000000000000
+      internalID: 839148814934734544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_96
+      rect:
+        serializedVersion: 2
+        x: 5325
+        y: 290
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488dbbe423e191ef0800000000000000
+      internalID: -137045112239957884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_97
+      rect:
+        serializedVersion: 2
+        x: 5327
+        y: 280
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f548095af30a56090800000000000000
+      internalID: -8041845364379057057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_98
+      rect:
+        serializedVersion: 2
+        x: 5973
+        y: 268
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc75418de7b2b9d0800000000000000
+      internalID: -2759941390920745767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_99
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 281
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b826b0395f01f8f0800000000000000
+      internalID: -508608407172405072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_100
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 281
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aef01f3199ded210800000000000000
+      internalID: 1359763355364032164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_101
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 276
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597df6395f3bf4980800000000000000
+      internalID: -8552419300031342699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_102
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 280
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319c217506cec4790800000000000000
+      internalID: -7544395377230558957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_103
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 270
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b156d370c280ad080800000000000000
+      internalID: -9162001506738805477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_104
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 273
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68adeee515af0a120800000000000000
+      internalID: 2423211826917333638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_105
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 272
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cbef24ef782a5c0800000000000000
+      internalID: -4205649575895188465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_106
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 272
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0573b0fd760a9c2f0800000000000000
+      internalID: -952053478228019376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_107
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 274
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a58288e519bb810800000000000000
+      internalID: 1782177912752462415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_108
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 274
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8a945d077237650800000000000000
+      internalID: 6229366075151722663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_109
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 281
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03276c97425d60970800000000000000
+      internalID: 8720892081088131632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_110
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 274
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db0e9c643fcf25d0800000000000000
+      internalID: -3085019395657954347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_111
+      rect:
+        serializedVersion: 2
+        x: 4253
+        y: 274
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111045975eca96dd0800000000000000
+      internalID: -2492270817189822191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_112
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 279
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d33b771aea468b0800000000000000
+      internalID: -5159807264538542761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_113
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 264
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a649cf2cd68def220800000000000000
+      internalID: 2521690807308424298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_114
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 272
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2c7d10b1a79c440800000000000000
+      internalID: 4956627121311564487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_115
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 265
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306a24e3a192cb470800000000000000
+      internalID: 8411643396711687683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_116
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 266
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8246151e43ea61690800000000000000
+      internalID: -7631720976390986712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_117
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 264
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706d437d6baee21a0800000000000000
+      internalID: -6832265513658952185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_118
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 272
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b43c48e268e8c90800000000000000
+      internalID: -7165642422745871499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_119
+      rect:
+        serializedVersion: 2
+        x: 3970
+        y: 265
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915a8aa0e18f45320800000000000000
+      internalID: 2545932497282704665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_120
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 266
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e6920294d2e3530800000000000000
+      internalID: 3836553724661689911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_121
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 241
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcdf9cbb2ac6e980800000000000000
+      internalID: -8509892156672975686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_122
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 246
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4f44b853b3d3050800000000000000
+      internalID: 5781842597769442546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_123
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 247
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75094a5e22ac29260800000000000000
+      internalID: 7102961813547159639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_124
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 250
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79de0d9273e75d570800000000000000
+      internalID: 8490831447866797463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_125
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 244
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e71bae70a08a0c0800000000000000
+      internalID: -4564387193221448091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_126
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 246
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c263430f1e52de0800000000000000
+      internalID: -1358431290797970419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_127
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 241
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5023f01a6035d10800000000000000
+      internalID: 2113039938981332452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_128
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 247
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af54c7ff8dd16cd0800000000000000
+      internalID: -2566526702217568349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_129
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 250
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7124696d7b8b5ff00800000000000000
+      internalID: 1150028379581727255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_130
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 241
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca7fe3695be9f2d0800000000000000
+      internalID: -3244303287382476091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_131
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 231
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6dd5f470fe410b0800000000000000
+      internalID: -5758715208824662287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_132
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 236
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61385362a62e2dfc0800000000000000
+      internalID: -3471463417213779178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_133
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 239
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9e52dd905297460800000000000000
+      internalID: 7239858600269965773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_134
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 233
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578b7aa3de67f7320800000000000000
+      internalID: 2557893874633128053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_135
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 231
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44ef468e63b00e20800000000000000
+      internalID: 3314846613025842255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_136
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 236
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c14ba87ddfb6470800000000000000
+      internalID: 8389077833094536214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_137
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 239
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feb4ba688b871980800000000000000
+      internalID: -8568226348027035912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_138
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 233
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d880c68df451dcd0800000000000000
+      internalID: -2535151667368654639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_139
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 235
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74696c687115bde0800000000000000
+      internalID: -1318128107023408003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_140
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 211
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584bb7ef906244a30800000000000000
+      internalID: 4198522576982226053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_141
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 211
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def7bf7ded4e92570800000000000000
+      internalID: 8442530622240161773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_142
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 218
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c91716d74771670800000000000000
+      internalID: 8509398102794411103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_143
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 218
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4feafa22535cbe0800000000000000
+      internalID: -1457700481291848480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_144
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 228
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bc75df7c9628f90800000000000000
+      internalID: -6952878567036826824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_145
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 228
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf17f9e816ee4b5b0800000000000000
+      internalID: -5353391954264624645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_146
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 188
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095363ee0094271f0800000000000000
+      internalID: -1048695494878546544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_147
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 188
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a070121e6819350800000000000000
+      internalID: 6021742478250936904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_148
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 96
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6aee6f8403099770800000000000000
+      internalID: 8617922680071318124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_149
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 99
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a0ea1a7d07a54a0800000000000000
+      internalID: -6603841832152593781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_150
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 81
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffcd647ea4e4bb80800000000000000
+      internalID: -8379821568700854282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_151
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 87
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6c480f0eab3f910800000000000000
+      internalID: 1870043745559561983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_152
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 90
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be14064497385a80800000000000000
+      internalID: -8477965188555596104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_153
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 77
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740314e03cc0db9b0800000000000000
+      internalID: -5062876374197260217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_154
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 73
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6675e411ab42b1660800000000000000
+      internalID: 7357514797812701030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_155
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 76
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca6e5df0a50e0ac0800000000000000
+      internalID: -3887163239370429754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_156
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 60
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dce2134e68d9b6e0800000000000000
+      internalID: -1821186606211339051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_157
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 53
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4598716be3e86d730800000000000000
+      internalID: 4023559717096229204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_158
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a98e1a88e0906fe0800000000000000
+      internalID: -1197798172456482394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_159
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 59
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015f225b2e8916420800000000000000
+      internalID: 2621544557575337232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_160
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 51
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e6a3d73d9370df0800000000000000
+      internalID: -214138876774945193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_161
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fe6c7d2aa0e6580800000000000000
+      internalID: -8832110124705845483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_162
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 29
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f71522dc5f39e20800000000000000
+      internalID: 3356296408714018702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRESSIONE P_163
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 0
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88f23124ffacfe30800000000000000
+      internalID: 4538695987546486923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PRESSIONE P_0: -6486464229664085181
+      PRESSIONE P_1: -7068084796493071740
+      PRESSIONE P_10: 5830568245644895019
+      PRESSIONE P_100: 1359763355364032164
+      PRESSIONE P_101: -8552419300031342699
+      PRESSIONE P_102: -7544395377230558957
+      PRESSIONE P_103: -9162001506738805477
+      PRESSIONE P_104: 2423211826917333638
+      PRESSIONE P_105: -4205649575895188465
+      PRESSIONE P_106: -952053478228019376
+      PRESSIONE P_107: 1782177912752462415
+      PRESSIONE P_108: 6229366075151722663
+      PRESSIONE P_109: 8720892081088131632
+      PRESSIONE P_11: 8047958300097673899
+      PRESSIONE P_110: -3085019395657954347
+      PRESSIONE P_111: -2492270817189822191
+      PRESSIONE P_112: -5159807264538542761
+      PRESSIONE P_113: 2521690807308424298
+      PRESSIONE P_114: 4956627121311564487
+      PRESSIONE P_115: 8411643396711687683
+      PRESSIONE P_116: -7631720976390986712
+      PRESSIONE P_117: -6832265513658952185
+      PRESSIONE P_118: -7165642422745871499
+      PRESSIONE P_119: 2545932497282704665
+      PRESSIONE P_12: 7770170321106635480
+      PRESSIONE P_120: 3836553724661689911
+      PRESSIONE P_121: -8509892156672975686
+      PRESSIONE P_122: 5781842597769442546
+      PRESSIONE P_123: 7102961813547159639
+      PRESSIONE P_124: 8490831447866797463
+      PRESSIONE P_125: -4564387193221448091
+      PRESSIONE P_126: -1358431290797970419
+      PRESSIONE P_127: 2113039938981332452
+      PRESSIONE P_128: -2566526702217568349
+      PRESSIONE P_129: 1150028379581727255
+      PRESSIONE P_13: 8432720094383022121
+      PRESSIONE P_130: -3244303287382476091
+      PRESSIONE P_131: -5758715208824662287
+      PRESSIONE P_132: -3471463417213779178
+      PRESSIONE P_133: 7239858600269965773
+      PRESSIONE P_134: 2557893874633128053
+      PRESSIONE P_135: 3314846613025842255
+      PRESSIONE P_136: 8389077833094536214
+      PRESSIONE P_137: -8568226348027035912
+      PRESSIONE P_138: -2535151667368654639
+      PRESSIONE P_139: -1318128107023408003
+      PRESSIONE P_14: -7610838760674683276
+      PRESSIONE P_140: 4198522576982226053
+      PRESSIONE P_141: 8442530622240161773
+      PRESSIONE P_142: 8509398102794411103
+      PRESSIONE P_143: -1457700481291848480
+      PRESSIONE P_144: -6952878567036826824
+      PRESSIONE P_145: -5353391954264624645
+      PRESSIONE P_146: -1048695494878546544
+      PRESSIONE P_147: 6021742478250936904
+      PRESSIONE P_148: 8617922680071318124
+      PRESSIONE P_149: -6603841832152593781
+      PRESSIONE P_15: -781397361287414930
+      PRESSIONE P_150: -8379821568700854282
+      PRESSIONE P_151: 1870043745559561983
+      PRESSIONE P_152: -8477965188555596104
+      PRESSIONE P_153: -5062876374197260217
+      PRESSIONE P_154: 7357514797812701030
+      PRESSIONE P_155: -3887163239370429754
+      PRESSIONE P_156: -1821186606211339051
+      PRESSIONE P_157: 4023559717096229204
+      PRESSIONE P_158: -1197798172456482394
+      PRESSIONE P_159: 2621544557575337232
+      PRESSIONE P_16: -1983064517439779783
+      PRESSIONE P_160: -214138876774945193
+      PRESSIONE P_161: -8832110124705845483
+      PRESSIONE P_162: 3356296408714018702
+      PRESSIONE P_163: 4538695987546486923
+      PRESSIONE P_17: -6602001407441249152
+      PRESSIONE P_18: 4317244309316564667
+      PRESSIONE P_19: 7762204981789680794
+      PRESSIONE P_2: -1596403560355772627
+      PRESSIONE P_20: 3249571493401568787
+      PRESSIONE P_21: -425407079171495325
+      PRESSIONE P_22: 4458521653195700776
+      PRESSIONE P_23: 2187021967377632928
+      PRESSIONE P_24: -4749841933253534762
+      PRESSIONE P_25: -8274766600194166542
+      PRESSIONE P_26: -5233591264381645343
+      PRESSIONE P_27: -206667846388352855
+      PRESSIONE P_28: -7583896033308832852
+      PRESSIONE P_29: 7796849953073972356
+      PRESSIONE P_3: 3739908014939451110
+      PRESSIONE P_30: -755668759207550861
+      PRESSIONE P_31: -7135251066306010867
+      PRESSIONE P_32: -217743045133841056
+      PRESSIONE P_33: -6234601184131232997
+      PRESSIONE P_34: 4689577954326025859
+      PRESSIONE P_35: -7771833566695744700
+      PRESSIONE P_36: 565409438509826701
+      PRESSIONE P_37: 2658535737478169940
+      PRESSIONE P_38: 8060887882583094748
+      PRESSIONE P_39: 5817083995951646404
+      PRESSIONE P_4: 9092735485630435613
+      PRESSIONE P_40: -9166633864027501138
+      PRESSIONE P_41: -4199574541051701058
+      PRESSIONE P_42: -5544231196960058034
+      PRESSIONE P_43: 1366353442297715919
+      PRESSIONE P_44: -1764194269937349917
+      PRESSIONE P_45: 9109436842544912324
+      PRESSIONE P_46: 4703582797120816159
+      PRESSIONE P_47: 7956586902406406968
+      PRESSIONE P_48: -8909792470418633965
+      PRESSIONE P_49: 2135950433511636912
+      PRESSIONE P_5: -6025883029804456695
+      PRESSIONE P_50: -1200286421042992157
+      PRESSIONE P_51: -821966097654934522
+      PRESSIONE P_52: 4235737041065261480
+      PRESSIONE P_53: -3241489411727043140
+      PRESSIONE P_54: -3115648946519139880
+      PRESSIONE P_55: -3813122412794743456
+      PRESSIONE P_56: 6890999278181720337
+      PRESSIONE P_57: 1348570078429450810
+      PRESSIONE P_58: 2190558109173869503
+      PRESSIONE P_59: -817094378183081343
+      PRESSIONE P_6: 5061030517510660463
+      PRESSIONE P_60: -7720155899836511771
+      PRESSIONE P_61: -5757958230212965702
+      PRESSIONE P_62: -7867827590132820319
+      PRESSIONE P_63: -6533023743047417708
+      PRESSIONE P_64: 7621580421936661919
+      PRESSIONE P_65: 2719764542106966345
+      PRESSIONE P_66: -892930098761819744
+      PRESSIONE P_67: 7824103218083293679
+      PRESSIONE P_68: 7096693652905569687
+      PRESSIONE P_69: -6748518332512633600
+      PRESSIONE P_7: -4267991041027410303
+      PRESSIONE P_70: 1717279887547177016
+      PRESSIONE P_71: -1390015320230244929
+      PRESSIONE P_72: -2991303852838349262
+      PRESSIONE P_73: -1624775065675329148
+      PRESSIONE P_74: -7843983747565350713
+      PRESSIONE P_75: -6406519501363193214
+      PRESSIONE P_76: -6182357587517235928
+      PRESSIONE P_77: -7220861693806924547
+      PRESSIONE P_78: -8381000734582006525
+      PRESSIONE P_79: -2137394355728353868
+      PRESSIONE P_8: -8959652314736453964
+      PRESSIONE P_80: -8035991806397555438
+      PRESSIONE P_81: 4446493308645059091
+      PRESSIONE P_82: -2558779554830589745
+      PRESSIONE P_83: -7597049198185504078
+      PRESSIONE P_84: -7908602600898625094
+      PRESSIONE P_85: -954557278634807109
+      PRESSIONE P_86: 8788827565470796747
+      PRESSIONE P_87: 2097202145312694250
+      PRESSIONE P_88: 9001486297149225247
+      PRESSIONE P_89: 5611727303380358638
+      PRESSIONE P_9: -3765760026848264884
+      PRESSIONE P_90: 1538077979123462746
+      PRESSIONE P_91: -4957983011049772067
+      PRESSIONE P_92: 3385380677729607827
+      PRESSIONE P_93: -6744164294458178
+      PRESSIONE P_94: -1656358367776576672
+      PRESSIONE P_95: 839148814934734544
+      PRESSIONE P_96: -137045112239957884
+      PRESSIONE P_97: -8041845364379057057
+      PRESSIONE P_98: -2759941390920745767
+      PRESSIONE P_99: -508608407172405072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fead52e5b27f5da46a659f01e033f55e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311147
+  packageName: 2D Monster Chase Logic
+  packageVersion: 1.0.0
+  assetPath: Assets/Jacob_Yakesh/2D Monster Chase Logic/Sprites/Monster/Animations/MoveRight.anim
+  uploadId: 740351

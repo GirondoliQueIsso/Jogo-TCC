@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f097bf52b1d9f2449be4f3af9067f9e3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311147
+  packageName: 2D Monster Chase Logic
+  packageVersion: 1.0.0
+  assetPath: Assets/Jacob_Yakesh/2D Monster Chase Logic/Sprites/Player/Animations/IdleLeft.anim
+  uploadId: 740351

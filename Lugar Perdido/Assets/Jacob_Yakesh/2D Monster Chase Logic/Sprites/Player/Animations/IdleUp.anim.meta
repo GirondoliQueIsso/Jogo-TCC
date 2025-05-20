@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b31b17b2715830f4cb92e7c02055936e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311147
+  packageName: 2D Monster Chase Logic
+  packageVersion: 1.0.0
+  assetPath: Assets/Jacob_Yakesh/2D Monster Chase Logic/Sprites/Player/Animations/IdleUp.anim
+  uploadId: 740351

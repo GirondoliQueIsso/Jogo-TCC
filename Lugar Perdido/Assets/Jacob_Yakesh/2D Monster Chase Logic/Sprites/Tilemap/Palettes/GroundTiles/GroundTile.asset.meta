@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08b1c8f9053683747baf509d027a2b15
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311147
+  packageName: 2D Monster Chase Logic
+  packageVersion: 1.0.0
+  assetPath: Assets/Jacob_Yakesh/2D Monster Chase Logic/Sprites/Tilemap/Palettes/GroundTiles/GroundTile.asset
+  uploadId: 740351
