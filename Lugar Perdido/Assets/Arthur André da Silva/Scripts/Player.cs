@@ -106,7 +106,7 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "Bastao")
+        if (collision.gameObject.tag == "Kit")
         {
             if (Input.GetKey(KeyCode.P))
             {

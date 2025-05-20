@@ -10,6 +10,8 @@ TagManager:
   - Bastao
   - Monster
   - PlayerMid
+  - New tag
+  - Kit
   layers:
   - Default
   - TransparentFX
