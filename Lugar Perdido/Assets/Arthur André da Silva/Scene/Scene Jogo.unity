@@ -606,8 +606,8 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 606566390}
-  - {fileID: 450878853}
   - {fileID: 1883579640}
+  - {fileID: 450878853}
   - {fileID: 326514072}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2073,8 +2073,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 103.7, y: -196}
-  m_SizeDelta: {x: 505.2003, y: 171.7198}
+  m_AnchoredPosition: {x: 111, y: -193.7}
+  m_SizeDelta: {x: 475.9825, y: 265.1693}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1222723600
 Animator:
@@ -2642,6 +2642,8 @@ MonoBehaviour:
   jumpForce: 155
   healthBar: {fileID: 0}
   balaoFala: {fileID: 450878852}
+  pressPText: {fileID: 0}
+  letterF: {fileID: 1883579639}
   Bastao: 0
 --- !u!212 &1762345872
 SpriteRenderer:
@@ -3057,7 +3059,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1883579640
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3074,8 +3076,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.64426523, y: 0.6697585}
   m_AnchorMax: {x: 0.8721769, y: 0.95300007}
-  m_AnchoredPosition: {x: -2.6130981, y: -0.68930054}
-  m_SizeDelta: {x: 5.226181, y: 1.6390076}
+  m_AnchoredPosition: {x: -2.6131592, y: -0.68930054}
+  m_SizeDelta: {x: 5.226166, y: 1.6390076}
   m_Pivot: {x: 0.50000006, y: 0.579413}
 --- !u!95 &1883579641
 Animator:

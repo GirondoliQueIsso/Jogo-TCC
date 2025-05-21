@@ -7,6 +7,8 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float jumpForce = 7f;
     [SerializeField] private HealthBar healthBar;
     [SerializeField] private GameObject balaoFala; // Referência para o balão de fala
+    [SerializeField] private GameObject pressPText; // Referência para o texto "PRESSIONE P"
+    [SerializeField] private GameObject letterF; // Referência para a letra "F"
 
     private Rigidbody2D rb;
     private bool canJump = true;
@@ -28,6 +30,14 @@ public class PlayerController : MonoBehaviour
         {
             balaoFala.SetActive(false);
         }
+
+        // A letra "F" fica oculta no início
+        if (letterF != null)
+        {
+            letterF.SetActive(false);
+        }
+
+        // O texto "PRESSIONE P" permanece visível (não desativamos aqui)
     }
 
     void Update()
@@ -102,6 +112,14 @@ public class PlayerController : MonoBehaviour
                 balaoFala.SetActive(false); // Garante que o balão some ao sair
             }
         }
+        else if (collision.gameObject.tag == "Kit") // Saiu da área do kit
+        {
+            // Esconde o texto "PRESSIONE P" quando sai do kit
+            if (pressPText != null)
+            {
+                pressPText.SetActive(false);
+            }
+        }
     }
 
     private void OnTriggerStay2D(Collider2D collision)
@@ -112,6 +130,18 @@ public class PlayerController : MonoBehaviour
             {
                 Destroy(collision.gameObject);
                 Bastao++;
+
+                // Esconde o texto "PRESSIONE P" após coletar
+                if (pressPText != null)
+                {
+                    pressPText.SetActive(false);
+                }
+
+                // Mostra a letra "F" após coletar o item
+                if (letterF != null)
+                {
+                    letterF.SetActive(true);
+                }
             }
         }
     }
