@@ -40,7 +40,7 @@ public class HealthBar : MonoBehaviour
     private void Die()
     {
         // Desativa o controle do jogador ou executa animação de morte
-        Debug.Log("Player died!");
+        Debug.Log("Você morreu!");
 
         // Exemplo: desativar o script do jogador
         FindObjectOfType<PlayerController>().enabled = false;
