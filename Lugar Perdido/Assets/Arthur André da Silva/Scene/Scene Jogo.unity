@@ -2601,6 +2601,9 @@ MonoBehaviour:
   pressPText: {fileID: 0}
   letterF: {fileID: 1883579639}
   balaoAnimator: {fileID: 450878854}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   Bastao: 0
 --- !u!212 &1762345872
