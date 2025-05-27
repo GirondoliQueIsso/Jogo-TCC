@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: cdfdc48ab85335d44878855debdb53db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6298169027800152195
+    second: "Composi\xE7\xE3o 1_00034_0"
+  - first:
+      213: 8204556994163013685
+    second: "Composi\xE7\xE3o 1_00034_1"
+  - first:
+      213: -7897203817905239526
+    second: "Composi\xE7\xE3o 1_00034_2"
+  - first:
+      213: 5227396455112380401
+    second: "Composi\xE7\xE3o 1_00034_3"
+  - first:
+      213: -1428878469614590821
+    second: "Composi\xE7\xE3o 1_00034_4"
+  - first:
+      213: -5876652254100448365
+    second: "Composi\xE7\xE3o 1_00034_5"
+  - first:
+      213: -2513279641034679175
+    second: "Composi\xE7\xE3o 1_00034_6"
+  - first:
+      213: -3235443654683889208
+    second: "Composi\xE7\xE3o 1_00034_7"
+  - first:
+      213: 1662042553620162219
+    second: "Composi\xE7\xE3o 1_00034_8"
+  - first:
+      213: -5602564601553782527
+    second: "Composi\xE7\xE3o 1_00034_9"
+  - first:
+      213: 3862262630517302184
+    second: "Composi\xE7\xE3o 1_00034_10"
+  - first:
+      213: 7933381090747086927
+    second: "Composi\xE7\xE3o 1_00034_11"
+  - first:
+      213: -7891732918920148977
+    second: "Composi\xE7\xE3o 1_00034_12"
+  - first:
+      213: -4730313504124749949
+    second: "Composi\xE7\xE3o 1_00034_13"
+  - first:
+      213: -3075969585281246221
+    second: "Composi\xE7\xE3o 1_00034_14"
+  - first:
+      213: -8232248692315081932
+    second: "Composi\xE7\xE3o 1_00034_15"
+  - first:
+      213: 1688812075732042332
+    second: "Composi\xE7\xE3o 1_00034_16"
+  - first:
+      213: 7575716442996735055
+    second: "Composi\xE7\xE3o 1_00034_17"
+  - first:
+      213: -2536480070201831551
+    second: "Composi\xE7\xE3o 1_00034_18"
+  - first:
+      213: -3455647651786675376
+    second: "Composi\xE7\xE3o 1_00034_19"
+  - first:
+      213: -1037829032529680059
+    second: "Composi\xE7\xE3o 1_00034_20"
+  - first:
+      213: 790290147792590052
+    second: "Composi\xE7\xE3o 1_00034_21"
+  - first:
+      213: -6002724446925897720
+    second: "Composi\xE7\xE3o 1_00034_22"
+  - first:
+      213: -1304068986248654944
+    second: "Composi\xE7\xE3o 1_00034_23"
+  - first:
+      213: -1562720546359662584
+    second: "Composi\xE7\xE3o 1_00034_24"
+  - first:
+      213: -419342192286565701
+    second: "Composi\xE7\xE3o 1_00034_25"
+  - first:
+      213: 4958441245897987558
+    second: "Composi\xE7\xE3o 1_00034_26"
+  - first:
+      213: 5548131659984923511
+    second: "Composi\xE7\xE3o 1_00034_27"
+  - first:
+      213: 4126476371842187376
+    second: "Composi\xE7\xE3o 1_00034_28"
+  - first:
+      213: 8568919756922844280
+    second: "Composi\xE7\xE3o 1_00034_29"
+  - first:
+      213: -4260053212071282741
+    second: "Composi\xE7\xE3o 1_00034_30"
+  - first:
+      213: -7529701877744975330
+    second: "Composi\xE7\xE3o 1_00034_31"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_0"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 731
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77ca9a63a86898a0800000000000000
+      internalID: -6298169027800152195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_1"
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 725
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5387888dd117cd170800000000000000
+      internalID: 8204556994163013685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_2"
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 564
+        width: 97
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a46e208fe776290800000000000000
+      internalID: -7897203817905239526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_3"
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 705
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff0c1741617b8840800000000000000
+      internalID: 5227396455112380401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_4"
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 567
+        width: 95
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b942b673a9a9b2ce0800000000000000
+      internalID: -1428878469614590821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_5"
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 565
+        width: 101
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b18d529efe17ea0800000000000000
+      internalID: -5876652254100448365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_6"
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 565
+        width: 137
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c18ee7b790f1dd0800000000000000
+      internalID: -2513279641034679175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_7"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 551
+        width: 101
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c176cf53256913d0800000000000000
+      internalID: -3235443654683889208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_8"
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 568
+        width: 101
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6ec1a85e2c01710800000000000000
+      internalID: 1662042553620162219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_9"
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 567
+        width: 125
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1097535bd21bf32b0800000000000000
+      internalID: -5602564601553782527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_10"
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 568
+        width: 96
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3ef393663899530800000000000000
+      internalID: 3862262630517302184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_11"
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 568
+        width: 158
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48f7c5b118091e60800000000000000
+      internalID: 7933381090747086927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_12"
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 704
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f080281f8beea7290800000000000000
+      internalID: -7891732918920148977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_13"
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 572
+        width: 82
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38739662eec8a5eb0800000000000000
+      internalID: -4730313504124749949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_14"
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 706
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbd76995f5ff45d0800000000000000
+      internalID: -3075969585281246221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_15"
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 574
+        width: 84
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433b2ef3e6d21cd80800000000000000
+      internalID: -8232248692315081932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_16"
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 566
+        width: 40
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52066a92addf6710800000000000000
+      internalID: 1688812075732042332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_17"
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 574
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cf7ef87f9522960800000000000000
+      internalID: 7575716442996735055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_18"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 342
+        width: 127
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f03c3a0dc9cccd0800000000000000
+      internalID: -2536480070201831551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_19"
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 352
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ba75ef4c21b00d0800000000000000
+      internalID: -3455647651786675376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_20"
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 365
+        width: 36
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5492b7a5ef3e891f0800000000000000
+      internalID: -1037829032529680059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_21"
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 350
+        width: 105
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e41ba8c3bca7fa00800000000000000
+      internalID: 790290147792590052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_22"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 356
+        width: 70
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800cd685be902bca0800000000000000
+      internalID: -6002724446925897720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_23"
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 364
+        width: 65
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af8b009a2407ede0800000000000000
+      internalID: -1304068986248654944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_24"
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 360
+        width: 97
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808270751f9105ae0800000000000000
+      internalID: -1562720546359662584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_25"
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 463
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbafc657f723e2af0800000000000000
+      internalID: -419342192286565701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_26"
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 363
+        width: 74
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5156dca0cefc440800000000000000
+      internalID: 4958441245897987558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_27"
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 356
+        width: 88
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bef78795ceefc40800000000000000
+      internalID: 5548131659984923511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_28"
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 357
+        width: 87
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07042bda560344930800000000000000
+      internalID: 4126476371842187376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_29"
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 351
+        width: 85
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874763c6e1beae670800000000000000
+      internalID: 8568919756922844280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_30"
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 370
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7ba32ac2041e4c0800000000000000
+      internalID: -4260053212071282741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00034_31"
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 349
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e124b684900218790800000000000000
+      internalID: -7529701877744975330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Composi\xE7\xE3o 1_00034_0": -6298169027800152195
+      "Composi\xE7\xE3o 1_00034_1": 8204556994163013685
+      "Composi\xE7\xE3o 1_00034_10": 3862262630517302184
+      "Composi\xE7\xE3o 1_00034_11": 7933381090747086927
+      "Composi\xE7\xE3o 1_00034_12": -7891732918920148977
+      "Composi\xE7\xE3o 1_00034_13": -4730313504124749949
+      "Composi\xE7\xE3o 1_00034_14": -3075969585281246221
+      "Composi\xE7\xE3o 1_00034_15": -8232248692315081932
+      "Composi\xE7\xE3o 1_00034_16": 1688812075732042332
+      "Composi\xE7\xE3o 1_00034_17": 7575716442996735055
+      "Composi\xE7\xE3o 1_00034_18": -2536480070201831551
+      "Composi\xE7\xE3o 1_00034_19": -3455647651786675376
+      "Composi\xE7\xE3o 1_00034_2": -7897203817905239526
+      "Composi\xE7\xE3o 1_00034_20": -1037829032529680059
+      "Composi\xE7\xE3o 1_00034_21": 790290147792590052
+      "Composi\xE7\xE3o 1_00034_22": -6002724446925897720
+      "Composi\xE7\xE3o 1_00034_23": -1304068986248654944
+      "Composi\xE7\xE3o 1_00034_24": -1562720546359662584
+      "Composi\xE7\xE3o 1_00034_25": -419342192286565701
+      "Composi\xE7\xE3o 1_00034_26": 4958441245897987558
+      "Composi\xE7\xE3o 1_00034_27": 5548131659984923511
+      "Composi\xE7\xE3o 1_00034_28": 4126476371842187376
+      "Composi\xE7\xE3o 1_00034_29": 8568919756922844280
+      "Composi\xE7\xE3o 1_00034_3": 5227396455112380401
+      "Composi\xE7\xE3o 1_00034_30": -4260053212071282741
+      "Composi\xE7\xE3o 1_00034_31": -7529701877744975330
+      "Composi\xE7\xE3o 1_00034_4": -1428878469614590821
+      "Composi\xE7\xE3o 1_00034_5": -5876652254100448365
+      "Composi\xE7\xE3o 1_00034_6": -2513279641034679175
+      "Composi\xE7\xE3o 1_00034_7": -3235443654683889208
+      "Composi\xE7\xE3o 1_00034_8": 1662042553620162219
+      "Composi\xE7\xE3o 1_00034_9": -5602564601553782527
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

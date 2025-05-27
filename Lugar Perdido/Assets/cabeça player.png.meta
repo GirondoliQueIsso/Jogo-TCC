@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "cabe\xE7a player_0": 2834223995252345733
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cenario teste cozinha_0: -6940753495654722881
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

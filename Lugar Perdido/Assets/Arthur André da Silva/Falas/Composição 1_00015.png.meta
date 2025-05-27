@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: bc23f805282f2a44ba8b290b83f5543e
+guid: 8474edbc51096a64394c950923cf68c2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8228177783669661485
-    second: bastao com arama - lp_0
+      213: -830761989935922173
+    second: "Composi\xE7\xE3o 1_00015_0"
+  - first:
+      213: 354253264711637362
+    second: "Composi\xE7\xE3o 1_00015_1"
+  - first:
+      213: 1157843587102956188
+    second: "Composi\xE7\xE3o 1_00015_2"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -139,13 +145,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bastao com arama - lp_0
+      name: "Composi\xE7\xE3o 1_00015_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 269
+        y: 731
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +160,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d2f1468791c503270800000000000000
-      internalID: 8228177783669661485
+      spriteID: 30409f82f5a8874f0800000000000000
+      internalID: -830761989935922173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00015_1"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 551
+        width: 101
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279d8a3a77f8ae400800000000000000
+      internalID: 354253264711637362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Composi\xE7\xE3o 1_00015_2"
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 568
+        width: 68
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a5cb2ab9c711010800000000000000
+      internalID: 1157843587102956188
       vertices: []
       indices: 
       edges: []
@@ -164,7 +214,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -174,7 +224,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bastao com arama - lp_0: 8228177783669661485
+      "Composi\xE7\xE3o 1_00015_0": -830761989935922173
+      "Composi\xE7\xE3o 1_00015_1": 354253264711637362
+      "Composi\xE7\xE3o 1_00015_2": 1157843587102956188
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
