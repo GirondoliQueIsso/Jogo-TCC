@@ -1580,7 +1580,6 @@ GameObject:
   - component: {fileID: 959420174}
   - component: {fileID: 959420177}
   - component: {fileID: 959420176}
-  - component: {fileID: 959420175}
   m_Layer: 5
   m_Name: NOME
   m_TagString: Untagged
@@ -1607,28 +1606,6 @@ RectTransform:
   m_AnchoredPosition: {x: -258, y: -239}
   m_SizeDelta: {x: 218.191, y: 107.6764}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!95 &959420175
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 959420173}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 684936d42495a9e4f813b0055e5e2498, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &959420176
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2049,7 +2026,6 @@ GameObject:
   - component: {fileID: 1222723599}
   - component: {fileID: 1222723602}
   - component: {fileID: 1222723601}
-  - component: {fileID: 1222723600}
   m_Layer: 5
   m_Name: FALA
   m_TagString: Untagged
@@ -2076,28 +2052,6 @@ RectTransform:
   m_AnchoredPosition: {x: 103.7, y: -196}
   m_SizeDelta: {x: 505.2003, y: 171.7198}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!95 &1222723600
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1222723598}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 03e706b7b0c22ff46a649844fb986cdd, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &1222723601
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2642,6 +2596,12 @@ MonoBehaviour:
   jumpForce: 155
   healthBar: {fileID: 0}
   balaoFala: {fileID: 450878852}
+<<<<<<< Updated upstream
+=======
+  pressPText: {fileID: 0}
+  letterF: {fileID: 1883579639}
+  balaoAnimator: {fileID: 450878854}
+>>>>>>> Stashed changes
   Bastao: 0
 --- !u!212 &1762345872
 SpriteRenderer:
