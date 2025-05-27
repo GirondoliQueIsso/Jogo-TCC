@@ -1,10 +1,19 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Lugar Perdido/Assets/imagem 1.png.meta
 guid: 6916d6e3a32902540b74add82e8132de
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 542619392271420371
     second: imagem 1_0
+========
+guid: 46870c0f8abbe66419a7767325039796
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1571972686356912036
+    second: menu 2_0
+>>>>>>>> 542e5b80ecaf0d065bfafcafba72539221b17799:Lugar Perdido/Assets/Arthur André da Silva/Sprites/menu 2.png.meta
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,6 +148,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+<<<<<<<< HEAD:Lugar Perdido/Assets/imagem 1.png.meta
       name: imagem 1_0
       rect:
         serializedVersion: 2
@@ -146,6 +156,15 @@ TextureImporter:
         y: 85
         width: 334
         height: 334
+========
+      name: menu 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
+>>>>>>>> 542e5b80ecaf0d065bfafcafba72539221b17799:Lugar Perdido/Assets/Arthur André da Silva/Sprites/menu 2.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +173,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
+<<<<<<<< HEAD:Lugar Perdido/Assets/imagem 1.png.meta
       spriteID: 3db839c5675c78700800000000000000
       internalID: 542619392271420371
+========
+      spriteID: c586411ab2b3f2ae0800000000000000
+      internalID: -1571972686356912036
+>>>>>>>> 542e5b80ecaf0d065bfafcafba72539221b17799:Lugar Perdido/Assets/Arthur André da Silva/Sprites/menu 2.png.meta
       vertices: []
       indices: 
       edges: []
