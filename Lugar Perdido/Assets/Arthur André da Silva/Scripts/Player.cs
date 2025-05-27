@@ -1,5 +1,4 @@
 using UnityEngine;
-using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
@@ -7,47 +6,43 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float jumpForce = 7f;
     [SerializeField] private HealthBar healthBar;
-    [SerializeField] private GameObject balaoFala;
-    [SerializeField] private GameObject pressPText;
-    [SerializeField] private GameObject letterF;
-    [SerializeField] private Animator balaoAnimator;
+    [SerializeField] private GameObject balaoFala; // Referência para o balão de fala
+    [SerializeField] private GameObject pressPText; // Referência para o texto "PRESSIONE P"
+    [SerializeField] private GameObject letterF; // Referência para a letra "F"
 
     private Rigidbody2D rb;
     private bool canJump = true;
     public int Bastao;
-    private bool canTalk = false;
-    private bool isBalaoOpen = false;
-    private bool isAnimating = false;
+    private bool canTalk = false; // Pode interagir com outro player
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
 
+        // Se a healthBar não estiver atribuída no Inspector, tenta encontrar automaticamente
         if (healthBar == null)
         {
             healthBar = FindObjectOfType<HealthBar>();
         }
 
+        // Esconde o balão de fala no início
         if (balaoFala != null)
         {
             balaoFala.SetActive(false);
         }
 
+        // A letra "F" fica oculta no início
         if (letterF != null)
         {
             letterF.SetActive(false);
         }
+
+        // O texto "PRESSIONE P" permanece visível (não desativamos aqui)
     }
 
     void Update()
     {
-        HandleMovement();
-        HandleJump();
-        HandleBalaoAnimation();
-    }
-
-    private void HandleMovement()
-    {
+        // Movimento horizontal
         if (Input.GetKey(KeyCode.D))
         {
             rb.linearVelocity = new Vector2(moveSpeed, rb.linearVelocity.y);
@@ -60,10 +55,8 @@ public class PlayerController : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
         }
-    }
 
-    private void HandleJump()
-    {
+        // Verifica se pode pular
         if (Mathf.Abs(rb.linearVelocity.y) < 0.01f)
         {
             canJump = true;
@@ -73,57 +66,29 @@ public class PlayerController : MonoBehaviour
             canJump = false;
         }
 
+        // Pulo com W
         if (Input.GetKeyDown(KeyCode.W) && canJump)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
-    }
 
-    private void HandleBalaoAnimation()
-    {
-        if (canTalk && Input.GetKeyDown(KeyCode.F) && !isAnimating)
+        // Interação com F (mostrar/ocultar balão de fala)
+        if (canTalk && Input.GetKeyDown(KeyCode.F))
         {
-            if (balaoFala != null && balaoAnimator != null)
+            if (balaoFala != null)
             {
-                if (!isBalaoOpen)
-                {
-                    balaoFala.SetActive(true);
-                    balaoAnimator.Play("AbrirBalao");
-                    isBalaoOpen = true;
-                    isAnimating = true;
-                    StartCoroutine(ResetAnimationFlag());
-                }
-                else
-                {
-                    balaoAnimator.Play("FecharBalao");
-                    isAnimating = true;
-                    StartCoroutine(DeactivateAfterAnimation());
-                }
+                balaoFala.SetActive(!balaoFala.activeSelf);
             }
         }
-    }
-
-    private IEnumerator ResetAnimationFlag()
-    {
-        yield return new WaitForSeconds(balaoAnimator.GetCurrentAnimatorStateInfo(0).length);
-        isAnimating = false;
-    }
-
-    private IEnumerator DeactivateAfterAnimation()
-    {
-        yield return new WaitForSeconds(balaoAnimator.GetCurrentAnimatorStateInfo(0).length);
-        balaoFala.SetActive(false);
-        isBalaoOpen = false;
-        isAnimating = false;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Enemy" || collision.gameObject.tag == "Hazard")
         {
-            TakeDamage(10f);
+            TakeDamage(10f); // Valor de dano ajustável
         }
-        else if (collision.gameObject.tag == "PlayerMid")
+        else if (collision.gameObject.tag == "PlayerMid") // Verifica se é o player do meio
         {
             canTalk = true;
         }
@@ -133,23 +98,23 @@ public class PlayerController : MonoBehaviour
     {
         if (collision.gameObject.tag == "Enemy" || collision.gameObject.tag == "Hazard")
         {
-            TakeDamage(10f);
+            TakeDamage(10f); // Valor de dano ajustável
         }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "PlayerMid")
+        if (collision.gameObject.tag == "PlayerMid") // Saiu do alcance do player do meio
         {
             canTalk = false;
-            if (balaoFala != null && isBalaoOpen)
+            if (balaoFala != null)
             {
-                balaoAnimator.Play("FecharBalao");
-                StartCoroutine(DeactivateAfterAnimation());
+                balaoFala.SetActive(false); // Garante que o balão some ao sair
             }
         }
-        else if (collision.gameObject.tag == "Kit")
+        else if (collision.gameObject.tag == "Kit") // Saiu da área do kit
         {
+            // Esconde o texto "PRESSIONE P" quando sai do kit
             if (pressPText != null)
             {
                 pressPText.SetActive(false);
@@ -166,11 +131,13 @@ public class PlayerController : MonoBehaviour
                 Destroy(collision.gameObject);
                 Bastao++;
 
+                // Esconde o texto "PRESSIONE P" após coletar
                 if (pressPText != null)
                 {
                     pressPText.SetActive(false);
                 }
 
+                // Mostra a letra "F" após coletar o item
                 if (letterF != null)
                 {
                     letterF.SetActive(true);
