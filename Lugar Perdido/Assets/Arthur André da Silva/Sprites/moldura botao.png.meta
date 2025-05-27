@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      moldura botao_0: -7870018792594552920
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
