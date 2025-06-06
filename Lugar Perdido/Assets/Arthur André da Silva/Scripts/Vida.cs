@@ -7,6 +7,7 @@ public class HealthBar : MonoBehaviour
     [SerializeField] private Slider healthSlider;
     [SerializeField] private float maxHealth = 100f;
     [SerializeField] private float currentHealth;
+    [SerializeField] private GameObject Morte;
 
     [Header("Visual Feedback")]
     [SerializeField] private Color fullHealthColor = Color.green;
@@ -43,6 +44,10 @@ public class HealthBar : MonoBehaviour
         Debug.Log("Você morreu!");
 
         // Exemplo: desativar o script do jogador
+        if (healthSlider != null)
+        {
+            Morte.SetActive(true);
+        }
         FindObjectOfType<PlayerController>().enabled = false;
     }
 }

@@ -133,7 +133,7 @@ public class PlayerController : MonoBehaviour
     {
         if (collision.gameObject.tag == "Enemy" || collision.gameObject.tag == "Hazard")
         {
-            TakeDamage(10f);
+            TakeDamage(27f);
         }
     }
 
