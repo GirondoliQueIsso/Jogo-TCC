@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      venturim pixel_0: 5196407650006465101
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

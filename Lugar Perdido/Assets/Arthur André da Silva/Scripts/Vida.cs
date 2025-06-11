@@ -48,6 +48,7 @@ public class HealthBar : MonoBehaviour
         {
             Morte.SetActive(true);
         }
-        FindObjectOfType<PlayerController>().enabled = false;
+        // LINHA NOVA E CORRIGIDA
+        FindFirstObjectByType<PlayerController>().enabled = false;
     }
 }

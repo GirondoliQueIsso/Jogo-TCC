@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ffc74b4bd3313cc4e9e55c08a9026d3a
+guid: e1296267eaaae31479f9c7139bbf595a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1394307649562539986
-    second: menu sem inicio_0
+      213: 2563218900994914326
+    second: "crian\xE7a ia_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: menu sem inicio_0
+      name: "crian\xE7a ia_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 73
+        y: 23
+        width: 238
+        height: 550
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d7f8cf7b63995310800000000000000
-      internalID: 1394307649562539986
+      spriteID: 6187e5b8202629320800000000000000
+      internalID: 2563218900994914326
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      menu sem inicio_0: 1394307649562539986
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
