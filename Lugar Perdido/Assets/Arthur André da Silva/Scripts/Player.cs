@@ -6,16 +6,25 @@ public class PlayerController : MonoBehaviour
     [Header("Movement Settings")]
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float jumpForce = 7f;
+
+    [Header("References")]
     [SerializeField] private HealthBar healthBar;
     [SerializeField] private GameObject balaoFala;
-    [SerializeField] private GameObject pressPText;
-    [SerializeField] private GameObject letterF;
+    [SerializeField] private GameObject pressPText; // Texto para pegar o kit
+    [SerializeField] private GameObject letterF;     // Texto para falar com NPC
     [SerializeField] private Animator balaoAnimator;
 
+    // Componentes e Vari�veis Internas
     private Rigidbody2D rb;
     private bool canJump = true;
     public int Bastao;
-    private bool canTalk = false;
+
+    // Vari�veis de estado para intera��es
+    private bool canTalk = false;       // Flag para saber se pode conversar
+    private bool canPickUpKit = false;  // Flag para saber se pode pegar o kit
+    private GameObject kitToPickUp;     // Armazena a refer�ncia do kit pr�ximo
+
+    // Controle de Anima��o do Bal�o
     private bool isBalaoOpen = false;
     private bool isAnimating = false;
 
@@ -23,47 +32,46 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
 
+        // Busca autom�tica de refer�ncias se n�o foram setadas no Inspector
         if (healthBar == null)
         {
             healthBar = FindFirstObjectByType<HealthBar>();
         }
 
-        if (balaoFala != null)
-        {
-            balaoFala.SetActive(false);
-        }
-
-        if (letterF != null)
-        {
-            letterF.SetActive(false);
-        }
+        // Desativa elementos da UI no in�cio
+        if (balaoFala != null) balaoFala.SetActive(false);
+        if (pressPText != null) pressPText.SetActive(false);
+        if (letterF != null) letterF.SetActive(false);
     }
 
     void Update()
     {
+        // Organiza as chamadas de fun��o no Update
         HandleMovement();
         HandleJump();
-        HandleBalaoAnimation();
+        HandleInteraction(); // Nova fun��o que agrupa as intera��es com F e P
     }
+
+    // --- MOVIMENTA��O ---
 
     private void HandleMovement()
     {
+        float moveInput = 0f;
         if (Input.GetKey(KeyCode.D))
         {
-            rb.linearVelocity = new Vector2(moveSpeed, rb.linearVelocity.y);
+            moveInput = 1f;
         }
         else if (Input.GetKey(KeyCode.A))
         {
-            rb.linearVelocity = new Vector2(-moveSpeed, rb.linearVelocity.y);
+            moveInput = -1f;
         }
-        else
-        {
-            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
-        }
+        rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
     }
 
     private void HandleJump()
     {
+        // Uma forma mais confi�vel de checar o ch�o � usando um Raycast ou um CircleCast,
+        // mas para um jogo simples, checar a velocidade vertical funciona.
         if (Mathf.Abs(rb.linearVelocity.y) < 0.01f)
         {
             canJump = true;
@@ -79,29 +87,61 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    private void HandleBalaoAnimation()
+    // --- INTERA��ES ---
+
+    private void HandleInteraction()
     {
+        // L�gica para falar (Tecla F)
         if (canTalk && Input.GetKeyDown(KeyCode.F) && !isAnimating)
         {
-            if (balaoFala != null && balaoAnimator != null)
-            {
-                if (!isBalaoOpen)
-                {
-                    balaoFala.SetActive(true);
-                    balaoAnimator.Play("AbrirBalao");
-                    isBalaoOpen = true;
-                    isAnimating = true;
-                    StartCoroutine(ResetAnimationFlag());
-                }
-                else
-                {
-                    balaoAnimator.Play("FecharBalao");
-                    isAnimating = true;
-                    StartCoroutine(DeactivateAfterAnimation());
-                }
-            }
+            ToggleBalaoFala();
+        }
+
+        // L�gica para pegar o Kit (Tecla P)
+        if (canPickUpKit && Input.GetKeyDown(KeyCode.P))
+        {
+            PickUpKit();
         }
     }
+
+    private void PickUpKit()
+    {
+        if (kitToPickUp != null)
+        {
+            Destroy(kitToPickUp);
+            Bastao++;
+
+            if (pressPText != null) pressPText.SetActive(false);
+
+            // Voc� pode decidir se quer mostrar o "F" para outra coisa aqui
+            // if (letterF != null) letterF.SetActive(true);
+
+            // Resetar flags para n�o tentar pegar de novo
+            canPickUpKit = false;
+            kitToPickUp = null;
+        }
+    }
+
+    private void ToggleBalaoFala()
+    {
+        if (balaoFala == null || balaoAnimator == null) return;
+
+        isAnimating = true;
+        if (!isBalaoOpen)
+        {
+            balaoFala.SetActive(true);
+            balaoAnimator.Play("AbrirBalao");
+            isBalaoOpen = true;
+            StartCoroutine(ResetAnimationFlag());
+        }
+        else
+        {
+            balaoAnimator.Play("FecharBalao");
+            StartCoroutine(DeactivateAfterAnimation());
+        }
+    }
+
+    // --- COROUTINES PARA ANIMA��O DO BAL�O ---
 
     private IEnumerator ResetAnimationFlag()
     {
@@ -117,68 +157,55 @@ public class PlayerController : MonoBehaviour
         isAnimating = false;
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.gameObject.tag == "Enemy" || collision.gameObject.tag == "Hazard")
-        {
-            TakeDamage(10f);
-        }
-        else if (collision.gameObject.tag == "PlayerMid")
-        {
-            canTalk = true;
-        }
-    }
+    // --- F�SICA E COLIS�ES ---
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "Enemy" || collision.gameObject.tag == "Hazard")
+        if (collision.gameObject.CompareTag("Enemy") || collision.gameObject.CompareTag("Hazard"))
         {
             TakeDamage(27f);
         }
     }
 
-    private void OnTriggerExit2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (collision.gameObject.tag == "PlayerMid")
+        if (other.CompareTag("Enemy") || other.CompareTag("Hazard"))
+        {
+            TakeDamage(10f);
+        }
+        else if (other.CompareTag("PlayerMid")) // NPC
+        {
+            canTalk = true;
+            if (letterF != null) letterF.SetActive(true);
+        }
+        else if (other.CompareTag("Kit"))
+        {
+            canPickUpKit = true;
+            kitToPickUp = other.gameObject;
+            if (pressPText != null) pressPText.SetActive(true);
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("PlayerMid")) // NPC
         {
             canTalk = false;
-            if (balaoFala != null && isBalaoOpen)
+            if (letterF != null) letterF.SetActive(false);
+            if (isBalaoOpen)
             {
-                balaoAnimator.Play("FecharBalao");
-                StartCoroutine(DeactivateAfterAnimation());
+                ToggleBalaoFala(); // Fecha o bal�o se o jogador se afastar
             }
         }
-        else if (collision.gameObject.tag == "Kit")
+        else if (other.CompareTag("Kit"))
         {
-            if (pressPText != null)
-            {
-                pressPText.SetActive(false);
-                letterF.SetActive(true);
-            }
+            canPickUpKit = false;
+            kitToPickUp = null;
+            if (pressPText != null) pressPText.SetActive(false);
         }
     }
 
-    private void OnTriggerStay2D(Collider2D collision)
-    {
-        if (collision.gameObject.tag == "Kit")
-        {
-            if (Input.GetKey(KeyCode.P))
-            {
-                Destroy(collision.gameObject);
-                Bastao++;
-
-                if (pressPText != null)
-                {
-                    pressPText.SetActive(false);
-                }
-
-                if (letterF != null)
-                {
-                    letterF.SetActive(true);
-                }
-            }
-        }
-    }
+    // --- FUN��ES P�BLICAS ---
 
     public void TakeDamage(float damage)
     {
